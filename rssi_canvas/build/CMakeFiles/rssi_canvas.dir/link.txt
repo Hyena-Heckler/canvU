@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/rssi_canvas.dir/src/main.cpp.o -o rssi_canvas -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks  -Wl,-rpath,/usr/local/lib /usr/local/lib/libraylib.6.0.0.dylib -framework OpenGL
